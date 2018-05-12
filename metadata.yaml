@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40077
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hirtzler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39550#The-Hotel-St.-Francis-Cook-Book
 gutenberg_issued: '2012-04-27'
 gutenberg_type: Text
 identifiers:
